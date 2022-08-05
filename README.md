@@ -6,3 +6,6 @@ Some edge detection magic
 
 ### Output
 ![](./media/out.jpg)
+
+### Here's another
+![](./media/willow.jpg)
